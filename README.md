@@ -1,10 +1,10 @@
 Лабораторная работа 1:
-  \tlab_1.py (Matrix, decimal)
-  \tlab_1_test.py (тесты)
-\n
+  lab_1.py (Matrix, decimal)
+  lab_1_test.py (тесты)
+  
 Лабораторная работа 2:
-  \tlab_2.py (Matrix)
-  \tlab_2_test.py (тесты)
+  lab_2.py (Matrix)
+  lab_2_test.py (тесты)
 
 Лабораторная работа 3:
   lab_3.py (LogisticRegression_n, LogisticRegression_m, measure_perfomance())
